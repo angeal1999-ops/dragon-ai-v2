@@ -2,3 +2,4 @@ streamlit
 pillow
 moviepy
 openai-whisper
+torch
