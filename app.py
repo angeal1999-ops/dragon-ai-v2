@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from PIL import Image
 import whisper
-from moviepy import VideoFileClip, TextClip, CompositeVideoClip
+from moviepy.editor import VideoFileClip, TextClip, CompositeVideoClip
 
 # -----------------------
 # MOBILE OPTIMIZED APP
